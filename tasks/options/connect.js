@@ -12,8 +12,8 @@ var config = {
 
         clientId: '1',
         clientSecret: 'V0J75qti260DmVEoSnWSWvbnHqjRVO1vxlFlJBXA',
-        serverUrl: 'http://zhangqiuaa-akoxer4j.i.saasapps.cn/',
-        redirect_uri: 'http://zhangqiuaa-akoxer4j.i.saasapps.cn/',
+        serverUrl: 'http://zhangqiuaa-akoxer4j.i.saasapps.cn',
+        redirect_uri: 'http://zhangqiuaa-akoxer4j.i.saasapps.cn',
         defaultClientRoute: '/about'
 
     },
