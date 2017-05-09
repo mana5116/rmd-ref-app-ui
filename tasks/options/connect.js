@@ -11,8 +11,8 @@ var config = {
     uaa: {
 
         clientId: '1',
-        clientSecret: '12345',
-        serverUrl: 'http://uaa.i.saasapps.cn',
+        clientSecret: 'V0J75qti260DmVEoSnWSWvbnHqjRVO1vxlFlJBXA',
+        serverUrl: 'http://zhangqiuaa.i.saasapps.cn',
         redirect_uri: 'http://rmd.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
 
