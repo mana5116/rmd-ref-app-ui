@@ -13,7 +13,7 @@ var config = {
         clientId: '1',
         clientSecret: 'V0J75qti260DmVEoSnWSWvbnHqjRVO1vxlFlJBXA',
         serverUrl: 'http://zhangqiuaa.i.saasapps.cn',
-        redirect_uri: 'http://rmd.i.saasapps.cn/callback',
+        redirect_uri: 'http://zhangqirmd.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
 
     },
